@@ -1,9 +1,5 @@
-# 👋 Hi, I'm Prince Kumar!  
-
-## 🏆 About Me  
-- **Name:** Prince Kumar  
 - **Current Focus:** Diving into **AI, Agentic AI, LLMs, and Machine Learning** to integrate them into app development.  
-- **Interests:** App development, cloud computing, AI-driven solutions, and cybersecurity.
+- **Interests:** App development, cloud computing, and AI-driven solutions.
 
 ---
 

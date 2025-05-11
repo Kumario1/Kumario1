@@ -32,7 +32,7 @@ Here are some projects I've worked on:
 1. **[Akash-chat-image attachment feature](https://github.com/Kumario1/akash-chat)** – *Added a image attachment feature to their LLM chat bot (AkashChat). Used Ollama Vision model to interpret image and added it as context for the main model.*  
 2. **[Gardenguru](https://github.com/Kumario1/GardenGuru)** – *Gardening app providing large amounts of data to help avid garderers have details in one place; React and firebase*  
 3. **[DigitalCameraAPP](https://github.com/Kumario1/digitalCameraApp)** – *React app with AWS backend lambda function, helping to solve the costly digital camera prices by replicating the digital camera effects in a app.*  
-4. **[PiPartner for HackClub](https://github.com/visshbala21/PiPartner_neighborhood)** – *AI assitant helping with math problems in React(intially flutter), with a AWS backend*  
+4. **[PiPartner for HackClub](https://github.com/visshbala21/PiPartner_neighborhood)** – *AI assitant helping with math problems in React, with a AWS backend*  
 
 
 I’m eager to **collaborate, contribute to open-source projects, and connect** with others in the industry. I’m looking for opportunities to expand my skills and make an impact.  

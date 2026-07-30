@@ -12,7 +12,7 @@ Building AI products, developer tooling, and quantitative systems.
 [![GitHub](https://img.shields.io/badge/GitHub-Kumario1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kumario1)
 [![Email](https://img.shields.io/badge/Email-princekmr11%40tamu.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:princekmr11@tamu.edu)
 [![npm](https://img.shields.io/badge/npm-@kumario%2Fsynapse-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/@kumario/synapse)
-[![Website](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://pr1ncekumar.dev/)
+[![Website](https://img.shields.io/badge/google-pr1ncekumar.dev-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://pr1ncekumar.dev/)
 
 <br/>
 
